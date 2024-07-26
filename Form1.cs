@@ -21,6 +21,7 @@ namespace WinFormsApp1
         {
             MessageBox.Show("Test");
             MessageBox.Show("Test2");
+            MessageBox.Show("Test3");
         }
     }
 }
